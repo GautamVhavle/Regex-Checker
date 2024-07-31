@@ -20,4 +20,4 @@ To run this project, you'll need:
 - [Mahir Rohatgi](https://github.com/MahirRohatgi18)
 - [Raghav Kapoor](https://github.com/raghavkapoor-prog).
 - [Yash Verma](https://github.com/Vyash2002).
-- [Shashank Sharma:https://github.com/Shashank-0918]
+- [Shashank Sharma](https://github.com/Shashank-0918).
